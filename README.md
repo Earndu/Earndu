@@ -15,6 +15,7 @@
 
 
 **Commit convention rule** : 날짜-[주제]-내용-상태
+
 `ex) 2021-03-29 [Algorithm] Sort Add/Update/Delete`
 
 

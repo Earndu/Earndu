@@ -3,29 +3,29 @@
 
 [소개영상](https://www.youtube.com/) | [포스터](https://drive.google.com/) | [안드로이드앱](https://drive.google.com)
 
-### Youtube (현재는 예시)
+### 🎥 Youtube (현재는 예시)
 
 [![IU(아이유) _ Into the I-LAND](http://img.youtube.com/vi/QYNwbZHmh8g/0.jpg)](https://youtu.be/QYNwbZHmh8g?t=0s)
 
-### Collaborator
+### 📌 Collaborator
 
 |[<img src="https://avatars.githubusercontent.com/u/63346802?v=4" width="100">](https://github.com/Seokhwan-Kwon)|[<img src="https://avatars.githubusercontent.com/u/46339857?v=4" width="100">](https://github.com/svclaw2000)|[<img src="https://avatars.githubusercontent.com/u/59018852?v=4" width="100">](https://github.com/ingkoon)|[<img src="https://avatars.githubusercontent.com/u/37266170?v=4" width="100">](https://github.com/junji9072)|
 |:--:|:--:|:--:|:--:|
 |Seokhwan Kwon|KyuHwon Park|Injae Lee|Eunji Joo|
 
 
-### Commit convention rule
+### ⚖️ Commit convention rule
 
 Date-[Subject]-Contents-State
 
 `ex) 2021-03-29 [Algorithm] Sort Add/Update/Delete`
 
 
-### Development environment
+### ⚙️ Development environment
 
 
 
-### Impact
+### 📈 Impact
 
 - Does the entry establish a clear challenge focused on one or more of the United Nations 17 Sustainable Development Goals? Is it explained in a clear manner with specific Sustainable Development Goal targets they are looking to solve for? [10]
 <br/>
@@ -39,7 +39,7 @@ Date-[Subject]-Contents-State
 
 
 
-### Technology
+### 💻 Technology
 - Does the solution implement all the technical components needed to solve the challenge? [10]
 <br/>
 - Has the team clearly explained what Google technology they used, why, and included guidance on how to run their code? [10]
@@ -59,20 +59,7 @@ Does the demonstration highlight how Google's technologies are implemented and a
 
 - - -
 
-## 💡주요 기능
 
-
-
-## 📈기대 효과
-
-
-
-<br>
-
-## 개발 환경
-
-
-<br>
 
 ## 🚀배포&플랫폼
 

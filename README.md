@@ -18,10 +18,12 @@
 
 `ex) 2021-03-29 [Algorithm] Sort Add/Update/Delete`
 
-
+<br/><br/>
 
 잘못된 내용은 [이슈](https://github.com/Earndu/Earndu/issues)와 [PR](https://github.com/Earndu/Earndu/pulls)로 알려주세요 💡
 
+
+- - -
 
 ## 💡주요 기능
 

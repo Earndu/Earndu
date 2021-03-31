@@ -4,7 +4,7 @@
 <img width="600" alt="none" src="rdImage/earndu.png"> 
 </p>
 
-[소개영상](https://www.youtube.com/) | [🖊 Poster](https://files.slack.com/files-pri/T01BS2XNGKZ-F01S9F23YCW/untitled-2222.png)
+[소개영상](https://www.youtube.com/) | [🖊 Poster]()
 ) | [📝 Teacher wepapplication](http://svclaw.ipdisk.co.kr:11002/content/add)
 
 <br/>

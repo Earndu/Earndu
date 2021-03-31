@@ -26,6 +26,7 @@
 
 <br/>
 ---
+
 ### ⚖️ Commit convention rule
 
 Date-[Subject]-Contents-State

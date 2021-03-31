@@ -18,22 +18,20 @@
 <br/>
 <br/>
 
-### Development environment
-
-
-**Google technology**
-flutter : Dart 2.10.5 / Flutter 1.22.6
-
-**another technology**
-Android, Django, Swift, http, https, JSON, mysql
-
-</br>
 
 ### Object
 
 - Our main goal is to minimize poverty issues by providing quality education to a large number of students who struggle from inequality. The solution endeavors to provide partnerships to achieve those goals.
 - Our strategy is to utilize minimal network and to provide limited types of contents.
 - Education gap exists due to unfair infrastructure, thus we attempted to narrow the gap by utilizing technology. Considering the needs of the disabled, we enabled to deliver all information by providing limited types of contents.
+
+<br/>
+<br/>
+
+### Logic
+
+We agonized to provide educational content even in situations where the network is not working well. When attempting to log in, the currently existing wish list is transmitted to JSON, and the user downloads contents. Simultaneously, the user receives the contents list. This allowed us to sufficiently communicate with minimal network traffic, by providing and receiving the recorded contents that are operated inside the application.
+
 
 <br/>
 <br/>
@@ -83,7 +81,19 @@ you should have `flutter`, `android studio(emulator)`
 <br/><br/>
 
 
-### Used package & Tech
+### Tech
+- Backend : Django was used to build the web and DB simultaneously.
+- Frontend: Flutter was used to produce APPs that can be executed by Android and iOS at once.
+- Transfer(HTTP/S, JSON) : It is realized to communicate via HTTP/S by putting the user's request in JSON at once.
+- SHA-256 : Security was enhanced by encrypting the user's password with HASH.
+
+>**Google technology** : flutter : Dart 2.10.5 / Flutter 1.22.6
+>**another technology** : Android, Django, Swift, http, https, JSON, mysql
+
+
+<br/><br/>
+
+### Used package
 - cupertino_icons: ^1.0.0
 - flutter_swiper: ^1.1.6
 - http: ^0.12.0
@@ -97,10 +107,26 @@ you should have `flutter`, `android studio(emulator)`
 - assets_audio_player: ^2.0.15
 - flutter_markdown: ^0.5.2
 
-The overall design was consist of `material design` but specific parts(ex.calendar, bottomsheet, etc...) were `cupertino design`.
-server structure was build from `framework Django`, communicate through `https`.
-also we used encryption technology `SHA256` for save user password.
+<br/>
+<br/>
 
+### Feedback
+
+- The home menu button composition is complicated to use for people who are visually impaired, so it needs to be modified.
+- Users hope to see horizontally when they see contents with pictures only.
+- It is advantageous because users are able to learn although their visual and auditory sense does not function well, because the contents are limited to writing letter, pictures, and voice.
+
+
+<br/>
+<br/>
+
+
+### Future / Next steps
+
+- Currently, technology was implemented by http and https, but we are aiming to make communication better in remote regions by implementing p2p.
+- We want users to be able to spot the range of improvement in one's grade, by solving quizzes after learning contents.
+- If enough data is collected during No.2, we would find good content creators with TensorFlow and we would try to make them collaborate with other educational institutions.
+- We hope Google AdSense works in offline settings, too. Then, we think it will be a sustainable program that will enable content creators to make money.
 
 <br/>
 <br/>

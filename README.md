@@ -122,11 +122,14 @@ Date-[Subject]-Contents-State
 Does the demonstration highlight how Google's technologies are implemented and also mention the value the technology provides the users? [10]
 - Has the team made effective product and technical decisions for their solution? [10]
 
+</br>
 
-### 🐎Build
+### 🐎Build and run
 ---
 
-- fork this repository
+- Fork this repository
+- Launch "Terminal" and move to Project.
+- Please type "flutter pub get" before running.
 
 <br/><br/>
 

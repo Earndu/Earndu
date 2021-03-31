@@ -1,15 +1,16 @@
-# Earndu : Description
-
-
-[소개영상](https://www.youtube.com/) | [포스터](https://drive.google.com/) | [안드로이드앱](https://drive.google.com)
-
-<br/>
+# Earndu
 
 <p align="center">
 <img width="600" alt="none" src="rdImage/earndu.png"> 
 </p>
 
-📝connect to EarnduTeacher: http://svclaw.ipdisk.co.kr:11002/content/add
+[소개영상](https://www.youtube.com/) | [포스터](https://drive.google.com/) | [안드로이드앱](https://drive.google.com)
+
+<br/>
+
+### what is Earndu?
+We developed 'Earndu' in the hope that equal education will be achieved and that intellectuals will earn the right return through their knowledge.
+
 ### 🎥 Youtube
 
 [![IU(아이유) _ Into the I-LAND](http://img.youtube.com/vi/QYNwbZHmh8g/0.jpg)](https://youtu.be/QYNwbZHmh8g?t=0s)
@@ -47,7 +48,7 @@ Date-[Subject]-Contents-State
 - WepApp
   - based on Django
 
-### 💡Features
+### 💡 Features
 * relatively, Earndu is free from the 🌎internet .
 * There is a variety of contents that can be used freely by any student.👍
 * Download the content you want and take 📔 anytime, anywhere.
@@ -60,14 +61,16 @@ Date-[Subject]-Contents-State
 
 ### Screenshots
 
-#### ✏️Student app
+#### ✏️ Student app
 | ![image](https://user-images.githubusercontent.com/59018852/113182389-ce0dff80-928d-11eb-805f-365455bcb565.png) | ![image](https://user-images.githubusercontent.com/59018852/113182491-ebdb6480-928d-11eb-8e39-ce943b443cb0.png) | ![image](https://user-images.githubusercontent.com/59018852/113182556-fe559e00-928d-11eb-91b3-37e727d625e6.png) |
 |---|:---:|---:|
 | ![image](https://user-images.githubusercontent.com/59018852/113182711-2e04a600-928e-11eb-8fdb-17989142186c.png) | ![image](https://user-images.githubusercontent.com/59018852/113182663-1f1df380-928e-11eb-8120-b8f0c11126d3.png) | ![image](https://user-images.githubusercontent.com/59018852/113182616-0e6d7d80-928e-11eb-9518-b1f66b4e78f6.png) |
 
 </br>
 
-#### ✏️Teacher app
+#### ✏️ Teacher app
+📝connect to EarnduTeacher: http://svclaw.ipdisk.co.kr:11002/content/add
+</br>
 | ![image](https://user-images.githubusercontent.com/59018852/113183153-abc8b180-928e-11eb-846a-61779c20f6f0.png) | ![image](https://user-images.githubusercontent.com/59018852/113183235-c13ddb80-928e-11eb-84d6-9b6d727d9a47.png) | ![image](https://user-images.githubusercontent.com/59018852/113183299-cf8bf780-928e-11eb-8275-63b7d5c09039.png) |
 |---|:---:|---:|
 

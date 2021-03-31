@@ -128,8 +128,10 @@ Does the demonstration highlight how Google's technologies are implemented and a
 ---
 
 - Fork this repository
-- Launch "Terminal" and move to Project.
-- Please type "flutter pub get" before running.
+- Launch [Terminal] and move to StudentApp.
+- Please type [flutter pub get] before running.
+- Click [run] or [debug] button
+- select your [emulator] for build this app.
 
 <br/><br/>
 

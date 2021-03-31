@@ -41,8 +41,10 @@ Date-[Subject]-Contents-State
   - version
     - Dart 2.10.5
     - Flutter 1.22.6
-- Android
+**another technology** :
+- Android 
 - WepApp
+  - based on Django
 
 ### 💡Features
 * relatively, Earndu is free from the 🌎internet .

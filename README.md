@@ -3,13 +3,12 @@
 <p align="center">
 <img width="600" alt="none" src="rdImage/earndu.png"> 
  
- </br>
- 
- [🖥 promotion](https://www.youtube.com/) | [🖊 Poster](https://files.slack.com/files-pri/T01BS2XNGKZ-F01S9F23YCW/untitled-2222.png)
- | [📝 Teacher wepapplication](http://svclaw.ipdisk.co.kr:11002/content/add)
+
  
 </p>
 
+ <center> [🖥 promotion](https://www.youtube.com/) | [🖊 Poster](https://files.slack.com/files-pri/T01BS2XNGKZ-F01S9F23YCW/untitled-2222.png)
+ | [📝 Teacher wepapplication](http://svclaw.ipdisk.co.kr:11002/content/add) </center>
 
 
 <br/>

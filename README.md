@@ -9,6 +9,7 @@
 <br/>
 
 ### what is Earndu?
+---
 We developed 'Earndu' in the hope that equal education will be achieved and that intellectuals will earn the right return through their knowledge.
 
 ### 🎥 Youtube
@@ -19,7 +20,8 @@ We developed 'Earndu' in the hope that equal education will be achieved and that
 <br/>
 
 ### 📌 Collaborator
-
+---
+</br>
 |[<img src="https://avatars.githubusercontent.com/u/63346802?v=4" width="100">](https://github.com/Seokhwan-Kwon)|[<img src="https://avatars.githubusercontent.com/u/46339857?v=4" width="100">](https://github.com/svclaw2000)|[<img src="https://avatars.githubusercontent.com/u/59018852?v=4" width="100">](https://github.com/ingkoon)|[<img src="https://avatars.githubusercontent.com/u/37266170?v=4" width="100">](https://github.com/junji9072)|
 |:--:|:--:|:--:|:--:|
 |Seokhwan Kwon|KyuHwon Park|Injae Lee|Eunji Joo|

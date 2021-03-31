@@ -68,8 +68,7 @@ Date-[Subject]-Contents-State
 </br>
 
 ## Teacher app
-| ![image](https://user-images.githubusercontent.com/59018852/113183153-abc8b180-928e-11eb-846a-61779c20f6f0.png) | ![image](https://user-images.githubusercontent.com/59018852/113183235-c13ddb80-928e-11eb-84d6-9b6d727d9a47.png)
- | ![image](https://user-images.githubusercontent.com/59018852/113183299-cf8bf780-928e-11eb-8275-63b7d5c09039.png) |
+| ![image](https://user-images.githubusercontent.com/59018852/113183153-abc8b180-928e-11eb-846a-61779c20f6f0.png) | ![image](https://user-images.githubusercontent.com/59018852/113183235-c13ddb80-928e-11eb-84d6-9b6d727d9a47.png) | ![image](https://user-images.githubusercontent.com/59018852/113183299-cf8bf780-928e-11eb-8275-63b7d5c09039.png) |
 
 <br/>
 

@@ -1,64 +1,33 @@
 
 
-## 🤔What is Earndu?
+### What is Earndu?
+
+ We developed 'Earndu' in the hope that equal education will be achieved and that intellectuals will earn the right return through their knowledge.
+
+<br/>
+
+### Youtube
 
 
-### We developed 'Earndu' in the hope that equal education will be achieved and that intellectuals will earn the right return through their knowledge.
-
-</br>
-
-
-
-
-</br>
-
-
-### 🎥 Youtube
----
 [![Earndu - GDSC Solution Challenge 2021
 ](http://img.youtube.com/vi/jNA1yJRN4_g/0.jpg)](https://youtu.be/jNA1yJRN4_g)
-
-
-<br/>
-
-### 📌 Collaborator
----
-
-|[<img src="https://avatars.githubusercontent.com/u/63346802?v=4" width="100">](https://github.com/Seokhwan-Kwon)|[<img src="https://avatars.githubusercontent.com/u/46339857?v=4" width="100">](https://github.com/svclaw2000)|[<img src="https://avatars.githubusercontent.com/u/59018852?v=4" width="100">](https://github.com/ingkoon)|[<img src="https://avatars.githubusercontent.com/u/37266170?v=4" width="100">](https://github.com/junji9072)|
-|:--:|:--:|:--:|:--:|
-|Seokhwan Kwon|KyuHwon Park|Injae Lee|Eunji Joo|
-
+If you want to see video, Click the image.
 
 <br/>
 
 
-### ⚖️ Commit convention rule
----
-
-Date-[Subject]-Contents-State
-
-`ex) 2021-03-29 [Algorithm] Sort Add/Update/Delete`
+### Development environment
 
 
-<br/>
+**Google technology**
+flutter : Dart 2.10.5 / Flutter 1.22.6
 
-### ⚙️ Development environment
----
-
-**Google technology** :
-- flutter
-  - version
-    - Dart 2.10.5
-    - Flutter 1.22.6
-**another technology** :
-- Android 
-- WepApp
-  - based on Django
+**another technology**
+Android, Django, Swift, http, https, JSON, mysql
 
 </br>
 
-### 💡 Features
----
+### Features
 
 * relatively, Earndu is free from the 🌎internet .
 * There is a variety of contents that can be used freely by any student.👍
@@ -155,3 +124,12 @@ The overall design was consist of `material design` but specific parts(ex.calend
 server structure was build from `framework Django`, communicate through `https`.</br>
 also we used encryption technology `SHA256` for save user password.</br>
 
+### Collaborator
+
+
+|Github_Link|Name|Role
+|:--:|:--:|:--:|
+|[<img src="https://avatars.githubusercontent.com/u/63346802?v=4" width="100">](https://github.com/Seokhwan-Kwon)|Seokhwan Kwon|Project Manager
+|[<img src="https://avatars.githubusercontent.com/u/46339857?v=4" width="100">](https://github.com/svclaw2000)|KyuHwon Park|Front/Back-end
+|[<img src="https://avatars.githubusercontent.com/u/59018852?v=4" width="100">](https://github.com/ingkoon)|Injae Lee | Front-end
+|[<img src="https://avatars.githubusercontent.com/u/37266170?v=4" width="100">](https://github.com/junji9072)|Eunji Joo | UI/UX Designer

@@ -4,7 +4,8 @@
 <img width="600" alt="none" src="rdImage/earndu.png"> 
 </p>
 
-[소개영상](https://www.youtube.com/) | [포스터](https://drive.google.com/) | [📝 Teacher wepapplication](http://svclaw.ipdisk.co.kr:11002/content/add)
+[소개영상](https://www.youtube.com/) | [🖊 Poster](![image](https://user-images.githubusercontent.com/59018852/113186166-44acfc00-9292-11eb-886f-2fc43c14a378.png)
+) | [📝 Teacher wepapplication](http://svclaw.ipdisk.co.kr:11002/content/add)
 
 <br/>
 

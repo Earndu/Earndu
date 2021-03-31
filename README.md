@@ -23,7 +23,7 @@
 |:--:|:--:|:--:|:--:|
 |Seokhwan Kwon|KyuHwon Park|Injae Lee|Eunji Joo|
 
-
+---
 <br/>
 
 ### ⚖️ Commit convention rule
@@ -32,7 +32,7 @@ Date-[Subject]-Contents-State
 
 `ex) 2021-03-29 [Algorithm] Sort Add/Update/Delete`
 
----
+
 <br/>
 
 ### ⚙️ Development environment

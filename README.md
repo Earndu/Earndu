@@ -42,10 +42,10 @@ Date-[Subject]-Contents-State
 - WepApp
 
 ### 💡Features
-* 비교적으로 🌎인터넷에서 자유롭습니다!
-* 장애를 갖고 있는 학생들을 위한 다채로운 컨텐츠가 준비되어있습니다.👍
-* 원하는 컨텐츠를 내려받아 언제 어디서든 편하게 📔수강할 수 있습니다.
-* 매일매일 학습을 통해 💪성장하는 나의 아바타를 확인할 수있습니다.
+* relatively, Earndu is free from the 🌎internet .
+* There is a variety of contents that can be used freely by any student.👍
+* Download the content you want and take 📔 anytime, anywhere.
+* you can check your growth 💪 by learning every day.
 
 ### Screenshots
 

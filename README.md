@@ -60,9 +60,9 @@ Date-[Subject]-Contents-State
 
 ### Screenshots
 
-| ![image](https://user-images.githubusercontent.com/59018852/113181969-53dd7b00-928d-11eb-9323-f67acad5bbd1.png) | <img width="409" alt="Screen Shot 2020-05-12 at 10 09 46 PM" src="https://user-images.githubusercontent.com/33794732/81698062-72355f00-94a0-11ea-8e01-6b3219fdbb1e.png"> | <img width="410" alt="Screen Shot 2020-05-12 at 10 23 41 PM" src="https://user-images.githubusercontent.com/33794732/81696995-9e9cab80-949f-11ea-9f02-f5fcbd500666.png"> |
+| ![image](https://user-images.githubusercontent.com/59018852/113182389-ce0dff80-928d-11eb-805f-365455bcb565.png) | ![image](https://user-images.githubusercontent.com/59018852/113182491-ebdb6480-928d-11eb-8e39-ce943b443cb0.png) | ![image](https://user-images.githubusercontent.com/59018852/113182556-fe559e00-928d-11eb-91b3-37e727d625e6.png) |
 |---|:---:|---:|
-| <img width="408" alt="Screen Shot 2020-05-12 at 10 24 42 PM" src="https://user-images.githubusercontent.com/33794732/81697001-9fcdd880-949f-11ea-8e39-0fcae525f076.png"> | <img width="409" alt="Screen Shot 2020-05-12 at 10 25 51 PM" src="https://user-images.githubusercontent.com/33794732/81697004-a0666f00-949f-11ea-99cd-2d0878e751ce.png"> | <img width="407" alt="Screen Shot 2020-05-12 at 10 26 09 PM" src="https://user-images.githubusercontent.com/33794732/81697006-a0ff0580-949f-11ea-971a-accc783322b0.png"> |
+| ![image](https://user-images.githubusercontent.com/59018852/113182711-2e04a600-928e-11eb-8fdb-17989142186c.png) | ![image](https://user-images.githubusercontent.com/59018852/113182663-1f1df380-928e-11eb-8120-b8f0c11126d3.png) | ![image](https://user-images.githubusercontent.com/59018852/113182616-0e6d7d80-928e-11eb-9518-b1f66b4e78f6.png) |
 
 
 <br/>

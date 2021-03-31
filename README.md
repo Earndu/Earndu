@@ -32,7 +32,8 @@
 
 ### 🎥 Youtube
 ---
-[![IU(아이유) _ Into the I-LAND](http://img.youtube.com/vi/QYNwbZHmh8g/0.jpg)](https://youtu.be/QYNwbZHmh8g?t=0s)
+[![Earndu - GDSC Solution Challenge 2021
+](http://img.youtube.com/vi/jNA1yJRN4_g/0.jpg)](https://youtu.be/jNA1yJRN4_g)
 
 
 <br/>

@@ -6,7 +6,7 @@
 <br/>
 
 
-<img alt="none" src="rdimage/earndu.png"> 
+<img alt="none" src="rdImage/earndu.png"> 
 
 
 http://svclaw.ipdisk.co.kr:11002/content/add

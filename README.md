@@ -5,16 +5,18 @@
  We developed 'Earndu' in the hope that equal education will be achieved and that intellectuals will earn the right return through their knowledge.
 
 <br/>
+<br/>
 
 ### Youtube
 
 
 [![Earndu - GDSC Solution Challenge 2021
 ](http://img.youtube.com/vi/jNA1yJRN4_g/0.jpg)](https://youtu.be/jNA1yJRN4_g)
+
 If you want to see video, Click the image.
 
 <br/>
-
+<br/>
 
 ### Development environment
 
@@ -27,6 +29,15 @@ Android, Django, Swift, http, https, JSON, mysql
 
 </br>
 
+### Object
+
+- Our main goal is to minimize poverty issues by providing quality education to a large number of students who struggle from inequality. The solution endeavors to provide partnerships to achieve those goals.
+- Our strategy is to utilize minimal network and to provide limited types of contents.
+- Education gap exists due to unfair infrastructure, thus we attempted to narrow the gap by utilizing technology. Considering the needs of the disabled, we enabled to deliver all information by providing limited types of contents.
+
+<br/>
+<br/>
+
 ### Features
 
 * relatively, Earndu is free from the 🌎internet .
@@ -35,54 +46,33 @@ Android, Django, Swift, http, https, JSON, mysql
 * you can check your growth 💪 by learning every day.
 
 
-</br>
+<br/>
+<br/>
 
-
-### Screenshots
----
-
-#### ✏️ Student app
+### ✏️ Student app (Playstore : "Earndu")
 | ![image](https://user-images.githubusercontent.com/59018852/113182389-ce0dff80-928d-11eb-805f-365455bcb565.png) | ![image](https://user-images.githubusercontent.com/59018852/113182491-ebdb6480-928d-11eb-8e39-ce943b443cb0.png) | ![image](https://user-images.githubusercontent.com/59018852/113182556-fe559e00-928d-11eb-91b3-37e727d625e6.png) |
 |---|:---:|---:|
 | ![image](https://user-images.githubusercontent.com/59018852/113182711-2e04a600-928e-11eb-8fdb-17989142186c.png) | ![image](https://user-images.githubusercontent.com/59018852/113182663-1f1df380-928e-11eb-8120-b8f0c11126d3.png) | ![image](https://user-images.githubusercontent.com/59018852/113182616-0e6d7d80-928e-11eb-9518-b1f66b4e78f6.png) |
 
-</br>
+<br/>
 
-#### ✏️ Teacher app
+### ✏️ Teacher app (Playstore : "Earndu-Teacher")
 | ![image](https://user-images.githubusercontent.com/59018852/113183153-abc8b180-928e-11eb-846a-61779c20f6f0.png) | ![image](https://user-images.githubusercontent.com/59018852/113183235-c13ddb80-928e-11eb-84d6-9b6d727d9a47.png) | ![image](https://user-images.githubusercontent.com/59018852/113183299-cf8bf780-928e-11eb-8275-63b7d5c09039.png) |
 |---|:---:|---:|
 
 <br/>
 
-### 📈 Impact
----
-
-- Does the entry establish a clear challenge focused on one or more of the United Nations 17 Sustainable Development Goals? Is it explained in a clear manner with specific Sustainable Development Goal targets they are looking to solve for? [10]
-- How effectively does the solution address the challenge identified by the team? [20]
-- Is there evidence of a next step? Does the team display a plan for future extension if they were to continue? [10]
-- Is there evidence that the solution has been thoroughly tested with real users? [10]
-- Is there evidence that the solution was iterated upon based on user feedback? [10]
-
+### ✏️ Teacher web
+http://svclaw.ipdisk.co.kr:11002/content/add
 
 <br/>
+<br/>
 
-### 💻 Technology
----
 
-- Does the solution implement all the technical components needed to solve the challenge? [10]
-- Has the team clearly explained what Google technology they used, why, and included guidance on how to run their code? [10]
-- Does the video demonstration show the working solution and how a user will interact with the solution?
-Does the demonstration highlight how Google's technologies are implemented and also mention the value the technology provides the users? [10]
-- Has the team made effective product and technical decisions for their solution? [10]
+### Build and run
 
-</br>
+you should have `flutter`, `android studio(emulator)`
 
-### 🐎Build and run
----
-
-⭐️you should have `flutter`, `android studio(emulator)`⭐️
-
-</br>
 
 - `Fork` this repository and `clone` to local.
 - Launch `Terminal` and move to StudentApp.
@@ -92,21 +82,8 @@ Does the demonstration highlight how Google's technologies are implemented and a
 
 <br/><br/>
 
-잘못된 내용은 [이슈](https://github.com/Earndu/Earndu/issues)와 [PR](https://github.com/Earndu/Earndu/pulls)로 알려주세요 💡
 
-<br/>
-- - -
-
-## 🚀배포&플랫폼
-
-<br>
-
-
-
-## 📚참고 자료
-
----
-#### Used package & Tech
+### Used package & Tech
 - cupertino_icons: ^1.0.0
 - flutter_swiper: ^1.1.6
 - http: ^0.12.0
@@ -120,9 +97,13 @@ Does the demonstration highlight how Google's technologies are implemented and a
 - assets_audio_player: ^2.0.15
 - flutter_markdown: ^0.5.2
 
-The overall design was consist of `material design` but specific parts(ex.calendar, bottomsheet, etc...) were `cupertino design`. </br>
-server structure was build from `framework Django`, communicate through `https`.</br>
-also we used encryption technology `SHA256` for save user password.</br>
+The overall design was consist of `material design` but specific parts(ex.calendar, bottomsheet, etc...) were `cupertino design`.
+server structure was build from `framework Django`, communicate through `https`.
+also we used encryption technology `SHA256` for save user password.
+
+
+<br/>
+<br/>
 
 ### Collaborator
 

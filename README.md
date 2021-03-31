@@ -38,6 +38,9 @@ Date-[Subject]-Contents-State
 ### ⚙️ Development environment
 **Google technology** :
 - flutter
+  - version
+    - Dart 2.10.5
+    - Flutter 1.22.6
 - Android
 - WepApp
 
@@ -111,9 +114,4 @@ Does the demonstration highlight how Google's technologies are implemented and a
 The overall design was consist of material design but specific parts(ex.calendar, bottomsheet, etc...) were cupertino design. </br>
 server structure was build from framework Django, communicate through https.</br>
 also we used encryption technology for save user password.</br>
-
-
-#### flttuer & dart version
-- Dart 2.10.5
-- Flutter 1.22.6
 

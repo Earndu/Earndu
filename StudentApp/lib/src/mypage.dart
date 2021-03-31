@@ -4,9 +4,6 @@ import 'sub_widget/myPageWidget.dart';
 import 'package:flutter_app/src/manageState.dart';
 import 'data.dart';
 
-import 'dart:convert';
-import 'package:crypto/crypto.dart';
-
 class myPage extends StatefulWidget {
   @override
   State<StatefulWidget> createState() => _myPage();

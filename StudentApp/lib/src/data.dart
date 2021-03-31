@@ -3,7 +3,6 @@ import 'dart:async';
 import 'dart:convert';
 import 'package:http/http.dart' as http;
 import 'package:intl/intl.dart';
-import 'dart:convert';
 
 class Student {
   //유저 정보를 저장할 변수들
@@ -307,9 +306,7 @@ class Content {
     loadContentFromMap(contents);
   }
 
-  static void loadContentFromMap(
-      Map<String, dynamic> contents) {
-
+  static void loadContentFromMap(Map<String, dynamic> contents) {
     for (String type in contents.keys) {
       for (String category in contents[type].keys) {
         for (Map content in contents[type][category]) {

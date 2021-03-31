@@ -280,10 +280,12 @@ class loginPage extends StatelessWidget {
                         Navigator.of(context).push(MaterialPageRoute(
                             builder: (context) => selectPage()));
                       } else {
+                        Manage.getTotal();
+
                         String checkTotal = Manage.totalVal();
                         String checkData = Manage.userVal();
                         Content.loadContentFromString(checkTotal);
-                        Content.loadContentFromString(checkData);
+                        Content.loadMetaFromString(checkData);
                         String checkPwd = Manage.pwdVal();
                         if (Student.username == userName.toString() &&
                             pwdData == checkPwd) {

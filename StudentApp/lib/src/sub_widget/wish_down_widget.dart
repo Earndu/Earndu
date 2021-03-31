@@ -51,7 +51,7 @@ Widget wish_list(BuildContext context, Content content) {
                                       overflow: TextOverflow.ellipsis,
                                       textAlign: TextAlign.left)),
                               Container(
-                                  margin: const EdgeInsets.only(top: 9),
+                                  margin: const EdgeInsets.only(top: 2),
                                   alignment: Alignment.bottomLeft,
                                   child: Text(content.category,
                                       style: const TextStyle(

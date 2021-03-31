@@ -35,8 +35,7 @@ dependencies:
   cupertino_date_textbox:
   # 컨텐츠 소개 시, 아래에서 올라오는 모습으로
   modal_bottom_sheet: ^1.0.0+1
-  #데이터를  하나로 모아놓는  역할을 위한  용도
-  provider: ^4.3.3
+  
   #튜토리얼을 한번만 진행하기 위한 용도
   shared_preferences: ^0.5.12+4
   assets_audio_player: ^2.0.15

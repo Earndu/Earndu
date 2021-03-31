@@ -4,7 +4,6 @@ import 'mainPage.dart';
 import 'package:flutter_swiper/flutter_swiper.dart';
 //import 'package:shared_preferences/shared_preferences.dart';
 
-import 'tutorial.dart';
 import 'data.dart';
 import 'manageState.dart';
 

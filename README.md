@@ -9,7 +9,7 @@
 
  <center> 
  
- [🖥 promotion](https://www.youtube.com/) | [🖊 Poster](https://files.slack.com/files-pri/T01BS2XNGKZ-F01S9F23YCW/untitled-2222.png)
+ [🖥 Demo Video](https://www.youtube.com/) | [🖊 Poster](https://files.slack.com/files-pri/T01BS2XNGKZ-F01S9F23YCW/untitled-2222.png)
  | [📝 Teacher wepapplication](http://svclaw.ipdisk.co.kr:11002/content/add) 
  
 </center>

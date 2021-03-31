@@ -6,7 +6,7 @@
 <br/>
 
 
-<img width="200" alt="none" src="rdImage/earndu.png"> 
+<img width="300" alt="none" src="rdImage/earndu.png"> 
 
 
 📝connect to EarnduTeacher: http://svclaw.ipdisk.co.kr:11002/content/add

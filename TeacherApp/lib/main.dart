@@ -31,7 +31,7 @@ class _MyHomePageState extends State<MyHomePage> {
     return Scaffold(
       body: SafeArea(
         child: WebView(
-          initialUrl: 'http://svclaw.ipdisk.co.kr:11002/content/add',
+          initialUrl: 'http://svclaw.ipdisk.co.kr:11002/m/content/add',
           javascriptMode: JavascriptMode.unrestricted,
         ),
       ),

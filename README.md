@@ -6,10 +6,10 @@
 <br/>
 
 
-<img alt="none" src="rdImage/earndu.png"> 
+<img width="200" alt="none" src="rdImage/earndu.png"> 
 
 
-http://svclaw.ipdisk.co.kr:11002/content/add
+📝connect to EarnduTeacher: http://svclaw.ipdisk.co.kr:11002/content/add
 ### 🎥 Youtube
 
 [![IU(아이유) _ Into the I-LAND](http://img.youtube.com/vi/QYNwbZHmh8g/0.jpg)](https://youtu.be/QYNwbZHmh8g?t=0s)

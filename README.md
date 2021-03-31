@@ -62,7 +62,11 @@ Date-[Subject]-Contents-State
 - WepApp
   - based on Django
 
+</br>
+
 ### 💡 Features
+---
+
 * relatively, Earndu is free from the 🌎internet .
 * There is a variety of contents that can be used freely by any student.👍
 * Download the content you want and take 📔 anytime, anywhere.
@@ -71,9 +75,9 @@ Date-[Subject]-Contents-State
 
 </br>
 
----
 
 ### Screenshots
+---
 
 #### ✏️ Student app
 | ![image](https://user-images.githubusercontent.com/59018852/113182389-ce0dff80-928d-11eb-805f-365455bcb565.png) | ![image](https://user-images.githubusercontent.com/59018852/113182491-ebdb6480-928d-11eb-8e39-ce943b443cb0.png) | ![image](https://user-images.githubusercontent.com/59018852/113182556-fe559e00-928d-11eb-91b3-37e727d625e6.png) |
@@ -91,6 +95,7 @@ Date-[Subject]-Contents-State
 <br/>
 
 ### 📈 Impact
+---
 
 - Does the entry establish a clear challenge focused on one or more of the United Nations 17 Sustainable Development Goals? Is it explained in a clear manner with specific Sustainable Development Goal targets they are looking to solve for? [10]
 - How effectively does the solution address the challenge identified by the team? [20]
@@ -102,6 +107,7 @@ Date-[Subject]-Contents-State
 <br/>
 
 ### 💻 Technology
+---
 
 - Does the solution implement all the technical components needed to solve the challenge? [10]
 - Has the team clearly explained what Google technology they used, why, and included guidance on how to run their code? [10]

@@ -35,11 +35,12 @@
 |:--:|:--:|:--:|:--:|
 |Seokhwan Kwon|KyuHwon Park|Injae Lee|Eunji Joo|
 
----
+
 <br/>
 
 
 ### ⚖️ Commit convention rule
+---
 
 Date-[Subject]-Contents-State
 
@@ -49,6 +50,8 @@ Date-[Subject]-Contents-State
 <br/>
 
 ### ⚙️ Development environment
+---
+
 **Google technology** :
 - flutter
   - version

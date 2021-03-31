@@ -13,7 +13,7 @@
 [![Earndu - GDSC Solution Challenge 2021
 ](http://img.youtube.com/vi/jNA1yJRN4_g/0.jpg)](https://youtu.be/jNA1yJRN4_g)
 
-If you want to see video, Click the image.
+>If you want to see video, Click the image.
 
 <br/>
 <br/>

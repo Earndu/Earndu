@@ -8,10 +8,11 @@
 
 <br/>
 
-### what is Earndu?
+### What is Earndu?
 ---
 We developed 'Earndu' in the hope that equal education will be achieved and that intellectuals will earn the right return through their knowledge.
-
+---
+</br>
 ### 🎥 Youtube
 
 [![IU(아이유) _ Into the I-LAND](http://img.youtube.com/vi/QYNwbZHmh8g/0.jpg)](https://youtu.be/QYNwbZHmh8g?t=0s)
@@ -21,7 +22,7 @@ We developed 'Earndu' in the hope that equal education will be achieved and that
 
 ### 📌 Collaborator
 ---
-</br>
+
 |[<img src="https://avatars.githubusercontent.com/u/63346802?v=4" width="100">](https://github.com/Seokhwan-Kwon)|[<img src="https://avatars.githubusercontent.com/u/46339857?v=4" width="100">](https://github.com/svclaw2000)|[<img src="https://avatars.githubusercontent.com/u/59018852?v=4" width="100">](https://github.com/ingkoon)|[<img src="https://avatars.githubusercontent.com/u/37266170?v=4" width="100">](https://github.com/junji9072)|
 |:--:|:--:|:--:|:--:|
 |Seokhwan Kwon|KyuHwon Park|Injae Lee|Eunji Joo|

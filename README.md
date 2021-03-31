@@ -52,6 +52,11 @@ Date-[Subject]-Contents-State
 * Download the content you want and take 📔 anytime, anywhere.
 * you can check your growth 💪 by learning every day.
 
+
+</br>
+
+---
+
 ### Screenshots
 
 | <img width="407" alt="Screen Shot 2020-05-12 at 10 09 55 PM" src="https://user-images.githubusercontent.com/33794732/81696368-c4758080-949e-11ea-8f37-3ebf2e025a6f.png">  | <img width="409" alt="Screen Shot 2020-05-12 at 10 09 46 PM" src="https://user-images.githubusercontent.com/33794732/81698062-72355f00-94a0-11ea-8e01-6b3219fdbb1e.png"> | <img width="410" alt="Screen Shot 2020-05-12 at 10 23 41 PM" src="https://user-images.githubusercontent.com/33794732/81696995-9e9cab80-949f-11ea-9f02-f5fcbd500666.png"> |

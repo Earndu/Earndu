@@ -202,7 +202,7 @@ class _contentListStateful extends State<contentListStateful> {
                                         BorderRadius.all(Radius.circular(13)),
                                     color: const Color(0xffffc12f))),
                             Container(
-                              height: 50,
+                              height: 55,
                               width: 200,
                               margin:
                                   const EdgeInsets.symmetric(horizontal: 10),
@@ -223,7 +223,7 @@ class _contentListStateful extends State<contentListStateful> {
                                           overflow: TextOverflow.ellipsis,
                                           textAlign: TextAlign.left)),
                                   Container(
-                                      margin: const EdgeInsets.only(top: 9),
+                                      margin: const EdgeInsets.only(top: 2),
                                       alignment: Alignment.bottomLeft,
                                       child: Text(widget.subName,
                                           style: const TextStyle(

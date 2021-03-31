@@ -2,8 +2,6 @@
 
 import 'package:flutter/material.dart';
 
-import 'package:flutter_app/src/manageState.dart';
-
 import 'src/login.dart';
 
 //플루터 시작 부분

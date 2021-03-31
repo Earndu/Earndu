@@ -5,7 +5,10 @@
 
 <br/>
 
-### 🎥 Youtube (현재는 예시)
+
+<img alt="Screen Shot 2020-05-12 at 10 09 55 PM" src="rdimage/earndu.png"> 
+
+### 🎥 Youtube
 
 [![IU(아이유) _ Into the I-LAND](http://img.youtube.com/vi/QYNwbZHmh8g/0.jpg)](https://youtu.be/QYNwbZHmh8g?t=0s)
 

@@ -5,9 +5,9 @@
 
 <br/>
 
-
-<img width="300" alt="none" src="rdImage/earndu.png"> 
-
+<p align="center">
+<img width="600" alt="none" src="rdImage/earndu.png"> 
+</p>
 
 📝connect to EarnduTeacher: http://svclaw.ipdisk.co.kr:11002/content/add
 ### 🎥 Youtube

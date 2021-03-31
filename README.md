@@ -1,7 +1,7 @@
 
 
-### 🤔What is Earndu?
----
+## 🤔What is Earndu?
+
 
 ### We developed 'Earndu' in the hope that equal education will be achieved and that intellectuals will earn the right return through their knowledge.
 

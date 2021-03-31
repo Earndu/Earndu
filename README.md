@@ -131,7 +131,7 @@ Does the demonstration highlight how Google's technologies are implemented and a
 
 </br>
 
-- Fork this repository
+- `Fork` this repository and `clone` your local.
 - Launch `Terminal` and move to StudentApp.
 - Please type `flutter pub get` before running.
 - Click `run` or `debug` button

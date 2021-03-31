@@ -23,9 +23,9 @@
 |:--:|:--:|:--:|:--:|
 |Seokhwan Kwon|KyuHwon Park|Injae Lee|Eunji Joo|
 
----
-<br/>
 
+<br/>
+---
 ### ⚖️ Commit convention rule
 
 Date-[Subject]-Contents-State

@@ -127,7 +127,7 @@ Does the demonstration highlight how Google's technologies are implemented and a
 ### 🐎Build and run
 ---
 
-⭐️you should have flutter, android studio(emulator)⭐️
+⭐️you should have `flutter`, `android studio(emulator)`⭐️
 
 </br>
 

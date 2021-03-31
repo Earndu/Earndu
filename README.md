@@ -167,7 +167,7 @@ Does the demonstration highlight how Google's technologies are implemented and a
 - assets_audio_player: ^2.0.15
 - flutter_markdown: ^0.5.2
 
-The overall design was consist of material design but specific parts(ex.calendar, bottomsheet, etc...) were cupertino design. </br>
-server structure was build from framework Django, communicate through https.</br>
-also we used encryption technology for save user password.</br>
+The overall design was consist of `material design` but specific parts(ex.calendar, bottomsheet, etc...) were `cupertino design`. </br>
+server structure was build from `framework Django`, communicate through `https`.</br>
+also we used encryption technology `SHA256` for save user password.</br>
 

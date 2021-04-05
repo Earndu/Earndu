@@ -1,5 +1,4 @@
 //import 'dart:js';
-
 import 'package:flutter/material.dart';
 
 import 'src/login.dart';
@@ -11,6 +10,6 @@ void main() {
 
     debugShowCheckedModeBanner: false,
     title: 'Start',
-    home: loginPage(),
+    home: Login_Page(),
   ));
 }

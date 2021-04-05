@@ -10,14 +10,14 @@ import 'package:crypto/crypto.dart';
 
 import 'dart:io';
 
-class loginPage extends StatelessWidget {
+class Login_Page extends StatelessWidget {
   Widget build(BuildContext context) {
     //현재 페이지에서 요구되는 데이터는 각각 username, password이므로 이를
     //텍스트필드 컨트롤러 변수로 선언하여 받아올 수 있도록 지정
 
-    TextEditingController userName = TextEditingController();
-    TextEditingController passWord = TextEditingController();
-    final Color maincolor = Color(0xffff7f41);
+    TextEditingController user_Name = TextEditingController();
+    TextEditingController user_Pw = TextEditingController();
+    final Color button_Color = Color(0xffff7f41);
 
     HttpOverrides.global = new MyHttpOverrides();
 
@@ -32,7 +32,6 @@ class loginPage extends StatelessWidget {
       Content.loadDownloadFromString(Manage.downloadVal());
       a++;
     }
-    ;
 
     /*
   빌드 부분
@@ -45,7 +44,7 @@ class loginPage extends StatelessWidget {
       home: Scaffold(
         //기본적인 틀을 위한 컨테이너 생성
         body: Container(
-          color: const Color(0xffffffff),
+          color: const Color(0xeeeeee),
           width: 500,
           height: 812,
           //내부 구성을 배치하기 위해 컬럼 child선언
@@ -74,7 +73,7 @@ class loginPage extends StatelessWidget {
                         fontSize: 65.0),
                   ),
                   TextSpan(
-                    text: 'du',
+                    text: 'Du',
                     style: TextStyle(
                         color: const Color(0xffff7f41),
                         fontWeight: FontWeight.bold,
@@ -111,7 +110,7 @@ class loginPage extends StatelessWidget {
                   //컨테이너에 들어갈 텍스트필드 선언
                   child: TextField(
                     //cursorColor: const Color(0xffff7f41),
-                    controller: userName,
+                    controller: user_Name,
                     //아이디는 자동완성기능 추가
                     autocorrect: true,
                     //텍스트 필드 내부의 디자인을 input decoration으로 지정
@@ -160,7 +159,7 @@ class loginPage extends StatelessWidget {
                       color: const Color(0xffffffff)),
                   child: TextField(
                     cursorColor: const Color(0xffff7f41),
-                    controller: passWord,
+                    controller: user_Pw,
                     obscureText: true,
                     decoration: InputDecoration(
                       hintText: 'Password',
@@ -206,7 +205,7 @@ class loginPage extends StatelessWidget {
                               blurRadius: 6,
                               spreadRadius: 0),
                         ],
-                        color: maincolor),
+                        color: button_Color),
                     //내부엔 텍스트 위젯을 선언 후 디자인에 맞춘 설정
                     child: Text("Log in",
                         style: const TextStyle(
@@ -219,10 +218,10 @@ class loginPage extends StatelessWidget {
                   ),
                   //터치시 상호작용의 정의, 현재는 바로 메인페이지로 이동되도록 선언했다.
                   onTap: () {
-                    var byte = utf8.encode(passWord.text);
+                    var byte = utf8.encode(user_Pw.text);
                     String pwdData = sha256.convert(byte).toString();
                     Manage.pwd = pwdData;
-                    Student.postRequest(userName.text, pwdData)
+                    Student.postRequest(user_Name.text, pwdData)
                         .then((response) {
                       if (response['status_code'] == 200) {
                         Map data = response['data'];
@@ -287,7 +286,7 @@ class loginPage extends StatelessWidget {
                         Content.loadContentFromString(checkTotal);
                         Content.loadMetaFromString(checkData);
                         String checkPwd = Manage.pwdVal();
-                        if (Student.username == userName.toString() &&
+                        if (Student.username == user_Name.toString() &&
                             pwdData == checkPwd) {
                           Navigator.of(context).pop();
                           Navigator.of(context).push(MaterialPageRoute(
@@ -327,7 +326,7 @@ class loginPage extends StatelessWidget {
                               blurRadius: 6,
                               spreadRadius: 0)
                         ],
-                        color: maincolor),
+                        color: button_Color),
                     //텍스트는 signup, 나머지 양식은 디자인에 맞춤
                     child: Text("Sign up",
                         style: const TextStyle(
@@ -373,7 +372,7 @@ class loginPage extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.center,
               children: <Widget>[
                 Text(
-                  "ID or Password error",
+                  "Username or password error",
                 ),
               ],
             ),

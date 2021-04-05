@@ -10,7 +10,7 @@ import 'package:crypto/crypto.dart';
 
 import 'dart:io';
 
-class loginPage extends StatelessWidget {
+class Login_Page extends StatelessWidget {
   Widget build(BuildContext context) {
     //현재 페이지에서 요구되는 데이터는 각각 username, password이므로 이를
     //텍스트필드 컨트롤러 변수로 선언하여 받아올 수 있도록 지정

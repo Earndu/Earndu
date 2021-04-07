@@ -3,6 +3,7 @@ import 'dart:async';
 import 'dart:convert';
 import 'package:http/http.dart' as http;
 import 'package:intl/intl.dart';
+import 'package:flutter_app/src/manageState.dart';
 
 class Student {
   //유저 정보를 저장할 변수들
@@ -200,6 +201,13 @@ class Content {
 
   static void removeFromDownloadList(int contentId) {
     downloadList.remove(contentId);
+    for (int i = 0; i < Content.originalDownload.length; i++) {
+      if (Content.originalDownload[i]['id'] == contentId) {
+        originalDownload.removeAt(i);
+        Manage.setDownload(Content.downloadToString());
+        return;
+      }
+    }
   }
 
   static void addToWishList(int contentId) {
